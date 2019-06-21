@@ -1,12 +1,12 @@
 {
-  "name": "gamemode",
+  "name": "hoaisonmedia",
   "version": "0.0.2",
   "description": "Los Santos Online is a GTA V Roleplay server based on RAGE Multiplayer.",
   "contributors": [
     {
-      "name": "Jakub Cała",
-      "email": "jakub.cala97@gmail.com",
-      "url": "https://github.com/kuba9392"
+      "name": "Hoài Sơn Media",
+      "email": "nguyenhoaison.9a1@gmail.com",
+      "url": "https://github.com/nguyenhoaison123/gtavn"
     },
     {
       "name": "rchl2",
