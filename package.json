@@ -59,7 +59,7 @@
     "hard-source-webpack-plugin": "^0.11.0",
     "html-webpack-harddisk-plugin": "^0.2.0",
     "html-webpack-plugin": "^4.0.0-alpha",
-    "lodash": "^4.17.10",
+    "lodash": "^4.17.21",
     "mini-css-extract-plugin": "^0.4.1",
     "node-sass": "^4.9.2",
     "nodemon": "^1.18.3",
